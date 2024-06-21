@@ -7,7 +7,7 @@ function Home() {
       <h1 className="text-2xl font-bold">Home</h1>
       <div className="mt-4">
         {/* Add posts display logic here */}
-        <p>Display user posts here...</p>
+        <p>Home interface</p>
       </div>
     </div>
   );

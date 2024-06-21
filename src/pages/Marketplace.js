@@ -6,7 +6,7 @@ function Marketplace() {
       <h1 className="text-2xl font-bold">Marketplace</h1>
       <div className="mt-4">
         {/* Add marketplace items display logic here */}
-        <p>Display marketplace items here...</p>
+        <p>Marketplace interface</p>
       </div>
     </div>
   );
